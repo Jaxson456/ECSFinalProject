@@ -1,0 +1,29 @@
+
+/* Background*/
+body {
+  background-color: lightblue;
+}
+/* Headers*/
+h1{
+      color: purple;
+      font-family:inherit;
+      font-size: 50;
+      margin-left: 450;
+
+    }
+h2{
+      color: Pink;
+      font-family:sans-serif ;
+      border: dotted ;
+
+    }
+/* Paragrphs*/
+p {
+      color: purple;
+      padding: 5px;
+      margin: 25px 50px 75px 100px;
+      border-width: 2px;
+      border-style: dashed;
+      border-color: green;
+}
+      
