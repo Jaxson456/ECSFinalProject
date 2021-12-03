@@ -12,7 +12,7 @@ h1{
 
     }
 h2{
-      color: Pink;
+      color: Green;
       font-family:sans-serif ;
       border: dotted ;
 
@@ -25,5 +25,45 @@ p {
       border-width: 2px;
       border-style: dashed;
       border-color: green;
+}
+p.{
+      color: green;
+      padding: 5px;
+      margin: 25px 50px 75px 100px;
+      border-width: 2px;
+      border-style: dotted;
+      border-color: purple;
+}
+/*Images*/
+img{ 
+      border-style: dashed;
+      border-style: dashed;
+      width: 50%;
+}
+/*Links*/
+     
+a:link {
+  color: Green;
+}
+
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+  color: blueviolet;
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
+/* page margin */
+div {
+  border: 1px darkblue;
+  margin: 15px;
+  background-color: limegreen;
 }
       
