@@ -1,1 +1,1 @@
-<?php header('Location: /styles.HTML' ) ; ?>
+<?php header('Location: /Dogs.HTML' ) ; ?>
